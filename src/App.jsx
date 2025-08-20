@@ -210,7 +210,7 @@ function App() {
               
               <div className="border-l-4 border-red-500 pl-6 p-4 bg-gradient-to-r from-red-50 to-red-100 rounded-r-xl">
                 <h3 className="text-lg font-semibold text-gray-800 mb-2">Movie Platform</h3>
-                <a href="https://github.com/huy297/movie-ap" target="_blank" rel="noopener noreferrer" className="text-red-600 font-medium text-sm mb-2 hover:text-red-700 underline">https://github.com/huy297/movie-ap</a>
+                <a href="https://github.com/huy297/movie-app" target="_blank" rel="noopener noreferrer" className="text-red-600 font-medium text-sm mb-2 hover:text-red-700 underline">https://github.com/huy297/movie-app</a>
                 <p className="text-gray-500 text-xs mb-3"></p>
                 <p className="text-gray-600 text-sm mb-4">A comprehensive movie platform with efficient data storage and retrieval system.</p>
                 <div className="flex flex-wrap gap-2">
